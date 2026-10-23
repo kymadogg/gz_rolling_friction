@@ -6,13 +6,14 @@
         "limitSymbolsToIncludedHeaders": false
       },
       "includePath": [
+        "/home/kymadogg/ros2_ws/install/turtles/include/**",
         "/home/kymadogg/ros2_ws/install/turtlebot3_fake_node/include/**",
         "/home/kymadogg/ros2_ws/install/turtlebot3_msgs/include/**",
         "/home/kymadogg/ros2_ws/install/turtlebot3_gazebo/include/**",
-        "/home/kymadogg/ros2_ws/install/pushback_sim/include/**",
-        "/home/kymadogg/ros2_ws/install/otto_hardware/include/**",
+        "/home/kymadogg/ros2_ws/install/rbe3002_interfaces/include/**",
         "/home/kymadogg/ros2_ws/install/laser_scan_merger/include/**",
         "/home/kymadogg/ros2_ws/install/laser_filters/include/**",
+        "/home/kymadogg/ros2_ws/install/grasp_matrix_sc/include/**",
         "/home/kymadogg/ros2_ws/install/exploration_interfaces/include/**",
         "/home/kymadogg/ros2_ws/install/dynamixel_sdk_custom_interfaces/include/**",
         "/home/kymadogg/ros2_ws/install/dynamixel_sdk/include/**",

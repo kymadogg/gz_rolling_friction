@@ -19,7 +19,7 @@ CMakeUserPresets.json
 #cmake-build-*
 
 # vscode
-/.vscode
+**/.vscode
 
 # colcon build stuff
 /log
